@@ -14,6 +14,7 @@ In-store profit dominates the other two sales channel. It is followed by Outlet 
 <knb><img width="535" alt="image 1" src="images/image 1.png"></kmb>
 
 The Southeast region has the highest profit compared to all the other regions. The Midwest and Northeast are weaker.
+
 <knb><img width="535" alt="image 2" src="images/image 2.png"></kmb>
 
 The product with the most profit is men’s street footwear. This is what adidas has always been known for. 
