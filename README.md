@@ -11,18 +11,19 @@ This dataset was found on Kaggle and was  publicly posted as ‘Adidas Sales Dat
 
 # Exploratory Data Analysis
 In-store profit dominates the other two sales channel. It is followed by Outlet then Online. 
-(image)
+<knb><img width="535" alt="image 1" src="images/image 1.png"></kmb>
 
 The Southeast region has the highest profit compared to all the other regions. The Midwest and Northeast are weaker.
-(image)
+<knb><img width="535" alt="image 2" src="images/image 2.png"></kmb>
 
 The product with the most profit is men’s street footwear. This is what adidas has always been known for. 
-(image)
+<knb><img width="535" alt="image 3" src="images/image 3.png"></kmb>
 
 Form the heatmap:
 * it shows average operating profit across the five regions.
 * The most profitable combination is Southeast region in-store purchases with the highest average profit at 131,869.
 * The lowest profitable combination is Northeast online sales with only 2,400.
+<knb><img width="535" alt="image 4" src="images/image 4.png"></kmb>
 
 # Regression Analysis
 The regression model is statistically significant (p < 0.001).
@@ -33,7 +34,8 @@ Price Effect: Higher price per unit increases operating profit.
 Although our R² is 0.34, which
 * is moderate, the model is statistically significant where (F = 419.9 p <0.001). Therefore, this shows our model is valid and strong.
 
-(insert 2 tables)
+<knb><img width="535" alt="image 5" src="images/image 5.png"></kmb>
+<knb><img width="535" alt="image 6" src="images/image 6.png"></kmb>
 
 # Interaction Analysis
 Testing the relationship between Sales Channel and Operating Profit varies across regions or products.
@@ -43,14 +45,15 @@ Sales Method - in store
 Region - Midwest
 Products - Men’s Apparel
 
-(insert table)
+<knb><img width="535" alt="image 7" src="images/image 7.png"></kmb>
 
 This table shows the interaction effect of Sales Channel and Region:
 * Significant interaction effects exist between Sales Method and Region (R² ↑ from 0.34 → 0.37).
 * Online and Outlet channels perform significantly worse in Southeast, West, and Northeast regions compared to the baseline.
 * No significant interaction found in the South region, suggesting stable channel performance there.
 * Managerial Implication: Regional strategy adjustments are needed  strengthen In-store presence and improve Online/Outlet logistics or promotions in weaker regions.
-(insert table)
+
+<knb><img width="535" alt="image 8" src="images/image 8.png"></kmb>
 
 
 
